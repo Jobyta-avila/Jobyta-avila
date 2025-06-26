@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jobyta-avila
-- 👀 I’m interested in Coding and Gaming and Travel!
-- 🌱 I’m currently learning to Code in Python
-- 💞️ I’m looking to collaborate on things that combines gaming and coding
+- 👀 I’m interested in Coding, Gaming and Travel!
+- 💞️ I’m looking to collaborate on things that combines things that make life easier and coding
 - 📫 How to reach me mireyajobita@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My laugh is super loud!
